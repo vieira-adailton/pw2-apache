@@ -12,7 +12,9 @@
     <h1>Aula sobre PHP</h1>
 
     <?php
-    echo "Falando sobre apache"; 
+    echo "Falando sobre apache"; //comentarios em php /* comentarios */
     ?>
+
+    <a href="pagina.php">Teste</a>
 </body>
 </html>
